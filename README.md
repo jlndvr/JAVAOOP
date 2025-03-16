@@ -1,4 +1,6 @@
-# JAVA Object Oriented Programming(OOP)
+# JAVA Object Oriented Programming(OOP) [<img align="left" alt="Your Name | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/your-profile/
 ## General info
 This repository includes the Java programming labs I worked on during the spring 2025 semester, demonstrating hands-on programming and problem-solving skills.
 ### Labs

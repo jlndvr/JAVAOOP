@@ -1,4 +1,4 @@
-# JAVA Object Oriented Programming(OOP) [<img align="left" alt="Your Name | LinkedIn" width="22px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fexercism%2Fmeta%2Fissues%2F52&psig=AOvVaw1AP5E6IgXNEKCSVBdvQEw-&ust=1742181484652000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCOuvbRjYwDFQAAAAAdAAAAABAJ" />][linkedin]
+# JAVA Object Oriented Programming(OOP) [<img align="left" alt="Your Name | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/your-profile/
 ## General info

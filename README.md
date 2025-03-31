@@ -19,7 +19,7 @@ This repository includes the Java programming labs I worked on during the spring
 - [Lab notes](https://github.com/jlndvr/Java/blob/main/Lab%2012%20Notes)
 - [2D Arrays](https://github.com/jlndvr/Java/blob/main/Lab%2012)
 ### Labs 13-15
-- [Functions](https://github.com/jlndvr/Java/blob/main/Lab%2013)
+- [Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
 - [Pass-by-Reference](https://github.com/jlndvr/Java/blob/main/Lab%2014)
 - [Recursion](https://github.com/jlndvr/Java/blob/main/Lab%2015)
 ### Classes & Objects Lab 16

@@ -16,12 +16,11 @@ This repository includes the Java programming labs I worked on during the spring
 - [For Loops](https://github.com/UTRGV-CSCI-3326/lab-10-jlndvr)
 - [Arrays](https://github.com/UTRGV-CSCI-3326/lab-11-jlndvr)
 ### 2D-Arrays Lab 12
-- [Lab notes](https://github.com/jlndvr/Java/blob/main/Lab%2012%20Notes)
-- [2D Arrays](https://github.com/jlndvr/Java/blob/main/Lab%2012)
+- [2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 ### Labs 13-15
 - [Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
-- [Pass-by-Reference](https://github.com/jlndvr/Java/blob/main/Lab%2014)
-- [Recursion](https://github.com/jlndvr/Java/blob/main/Lab%2015)
+- [Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
+- [Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)
 ### Classes & Objects Lab 16
 - [Classes & Objects](https://github.com/jlndvr/Java/blob/main/Lab%2016%20Dealership.java)
 - [Classes & Objects](https://github.com/jlndvr/Java/blob/main/Lab%2016%20car.java)

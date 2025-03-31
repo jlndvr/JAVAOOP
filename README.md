@@ -4,17 +4,17 @@
 This repository includes the Java programming labs I worked on during the spring 2025 semester, demonstrating hands-on programming and problem-solving skills.
 
 ### Labs 1-11
-- [Output](https://github.com/jlndvr/Java/blob/main/Lab%2001)
-- [Variables](https://github.com/jlndvr/Java/blob/main/Lab%2002)
-- [Arithmetic](https://github.com/jlndvr/Java/blob/main/Lab%2003)
-- [Conversion](https://github.com/jlndvr/Java/blob/main/Lab%2004)
-- [Input](https://github.com/jlndvr/Java/blob/main/Lab%2005)
-- [Conditional Expressions](https://github.com/jlndvr/Java/blob/main/Lab%2006)
-- [Decision Making](https://github.com/jlndvr/Java/blob/main/Lab%2007)
-- [Decision Making (Ranges)](https://github.com/jlndvr/Java/blob/main/Lab%2008)
-- [While Loops](https://github.com/jlndvr/Java/blob/main/Lab%2009)
-- [For Loops](https://github.com/jlndvr/Java/blob/main/Lab%2010)
-- [Arrays](https://github.com/jlndvr/Java/blob/main/Lab%2011)
+- [Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
+- [Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)
+- [Arithmetic](https://github.com/UTRGV-CSCI-3326/lab-03-jlndvr)
+- [Conversion](https://github.com/UTRGV-CSCI-3326/lab-04-jlndvr)
+- [Input](https://github.com/UTRGV-CSCI-3326/lab-05-jlndvr)
+- [Conditional Expressions](https://github.com/UTRGV-CSCI-3326/lab-06-jlndvr)
+- [Decision Making](https://github.com/UTRGV-CSCI-3326/lab-07-jlndvr)
+- [Decision Making (Ranges)](https://github.com/UTRGV-CSCI-3326/lab-08-jlndvr)
+- [While Loops](https://github.com/UTRGV-CSCI-3326/lab-09-jlndvr)
+- [For Loops](https://github.com/UTRGV-CSCI-3326/lab-10-jlndvr)
+- [Arrays](https://github.com/UTRGV-CSCI-3326/lab-11-jlndvr)
 ### 2D-Arrays Lab 12
 - [Lab notes](https://github.com/jlndvr/Java/blob/main/Lab%2012%20Notes)
 - [2D Arrays](https://github.com/jlndvr/Java/blob/main/Lab%2012)

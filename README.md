@@ -15,10 +15,9 @@ This repository includes the Java programming labs I worked on during the spring
 - [While Loops](https://github.com/jlndvr/Java/blob/main/Lab%2009)
 - [For Loops](https://github.com/jlndvr/Java/blob/main/Lab%2010)
 - [Arrays](https://github.com/jlndvr/Java/blob/main/Lab%2011)
-### 2D-Arrays
+### 2D-Arrays Lab 12
 - [Lab 12 notes](https://github.com/jlndvr/Java/blob/main/Lab%2012%20Notes)
 - [Lab 12](https://github.com/jlndvr/Java/blob/main/Lab%2012)
-
 - [Functions](https://github.com/jlndvr/Java/blob/main/Lab%2013)
 - [Pass-by-Reference](https://github.com/jlndvr/Java/blob/main/Lab%2014)
 - [Recursion](https://github.com/jlndvr/Java/blob/main/Lab%2015)

@@ -22,15 +22,10 @@ This repository includes the Java programming labs I worked on during the spring
 - [Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
 - [Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)
 ### Classes & Objects Lab 16
-- [Classes & Objects](https://github.com/jlndvr/Java/blob/main/Lab%2016%20Dealership.java)
-- [Classes & Objects](https://github.com/jlndvr/Java/blob/main/Lab%2016%20car.java)
+- [Classes & Objects](https://github.com/UTRGV-CSCI-3326/lab-16-jlndvr)
 ### Packages Lab 17
-- [Lab 17](https://github.com/jlndvr/Java/blob/main/Lab%2017%20Car.java)
-- [Lab 17](https://github.com/jlndvr/Java/blob/main/Lab%2017%20Main.java)
-- [Lab 17](https://github.com/jlndvr/Java/blob/main/Lab%2017%20RV.java)
-- [Lab 17](https://github.com/jlndvr/Java/blob/main/Lab%2017%20Trailer.java)
+- [Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)
 ### Static Lab 18
-- [Lab 18](https://github.com/jlndvr/Java/blob/main/Lab%2018%20Main.java)
-- [Lab 18](https://github.com/jlndvr/Java/blob/main/Lab%2018%20Student.java)
+- [Static](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
 ### Encapsulation Lab 19
-- [Encapsulation](https://github.com/jlndvr/Java/blob/main/Lab%2019)
+- [Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)

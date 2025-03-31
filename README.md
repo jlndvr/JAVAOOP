@@ -32,3 +32,5 @@ This repository includes the Java programming labs I worked on during the spring
 ### Static
 - [Lab 18](https://github.com/jlndvr/Java/blob/main/Lab%2018%20Main.java)
 - [Lab 18](https://github.com/jlndvr/Java/blob/main/Lab%2018%20Student.java)
+## Encapsulation
+- [Lab 19](https://github.com/jlndvr/Java/blob/main/Lab%2019)

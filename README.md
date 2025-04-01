@@ -29,3 +29,5 @@ This repository includes the Java programming labs I worked on during the spring
 - [Static](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
 ### Encapsulation Lab 19
 - [Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
+### Inheritance Lab 20
+- [Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)

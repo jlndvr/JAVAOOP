@@ -15,19 +15,19 @@ This repository showcases my Java development and learning, demonstrating my han
 - [While Loops](https://github.com/UTRGV-CSCI-3326/lab-09-jlndvr)
 - [For Loops](https://github.com/UTRGV-CSCI-3326/lab-10-jlndvr)
 - [Arrays](https://github.com/UTRGV-CSCI-3326/lab-11-jlndvr)
-### 2D-Arrays Lab 12
+### Lab 12
 - [2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 ### Labs 13-15
 - [Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
 - [Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
 - [Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)
-### Classes & Objects Lab 16
+### Lab 16
 - [Classes & Objects](https://github.com/UTRGV-CSCI-3326/lab-16-jlndvr)
-### Packages Lab 17
+### Lab 17
 - [Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)
-### Static Lab 18
+### Lab 18
 - [Static](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
-### Encapsulation Lab 19
+### Lab 19
 - [Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
-### Inheritance Lab 20
+### Lab 20
 - [Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)

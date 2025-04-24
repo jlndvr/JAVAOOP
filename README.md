@@ -10,7 +10,7 @@ This repository showcases Java development, demonstrating hands-on programming a
 
 ### 1. Java Fundamentals 
 <details>
-  <summary><span style="color: #0366d6; font-weight: 600;">▼ Click to expand (11 labs)</span></summary>
+  <summary>▶️ Click to expand</summary>
   
   - [Lab 01: Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
   - [Lab 02: Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)
@@ -27,13 +27,14 @@ This repository showcases Java development, demonstrating hands-on programming a
 
 ### 2. Data Structures
 <details>
-  <summary><span style="color: #6f42c1; font-weight: 600;">▼ Click to expand (1 lab)</span></summary>
+  <summary><span style="color: #6f42c1; font-weight: bold; text-decoration: underline;">▶️ Click to expand</span></summary>
   - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 </details>
 
 ### 3. Methods & Functions
 <details>
-  <summary><span style="color: #28a745; font-weight: 600;">▼ Click to expand (3 labs)</span></summary>
+  <summary>▶️ Click to expand</summary>
+  
   - [Lab 13: Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
   - [Lab 14: Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
   - [Lab 15: Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)
@@ -41,7 +42,8 @@ This repository showcases Java development, demonstrating hands-on programming a
 
 ### 4. Object-Oriented Basics
 <details>
-  <summary><span style="color: #d73a49; font-weight: 600;">▼ Click to expand (3 labs)</span></summary>
+  <summary>▶️ Click to expand</summary>
+  
   - [Lab 16: Classes & Objects](https://github.com/UTRGV-CSCI-3326/lab-16-jlndvr)
   - [Lab 17: Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)
   - [Lab 18: Static Members](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
@@ -49,9 +51,11 @@ This repository showcases Java development, demonstrating hands-on programming a
 
 ### 5. OOP Pillars
 <details>
-  <summary><span style="color: #e36209; font-weight: 600;">▼ Click to expand (4 labs)</span></summary>
+  <summary>▶️ Click to expand</summary>
+  
   - [Lab 19: Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
   - [Lab 20: Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)
   - [Lab 21: Polymorphism](https://github.com/UTRGV-CSCI-3326/lab-21-jlndvr)
   - [Lab 22: Abstraction](https://github.com/UTRGV-CSCI-3326/lab-22-jlndvr)
 </details>
+fix

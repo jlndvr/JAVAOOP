@@ -5,7 +5,7 @@ This repository showcases my Java development and learning, demonstrating my han
 
 ### Fundamentals of Java
 <details>
-<summary>I am a button</summary>
+<summary>press me</summary>
 
 - [Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
 - [Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)
@@ -25,7 +25,7 @@ This repository showcases my Java development and learning, demonstrating my han
 
 ### Methods
 <details>
-<summary>(press)</summary>
+<summary>(press me)</summary>
 
 - [Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
 - [Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
@@ -39,7 +39,7 @@ This repository showcases my Java development and learning, demonstrating my han
 
 ### Pillars of Java
 <details>
-<summary>(press)</summary>
+<summary>(press me)</summary>
 - [Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
 - [Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)
 - [Polymorphism](https://github.com/UTRGV-CSCI-3326/lab-21-jlndvr)

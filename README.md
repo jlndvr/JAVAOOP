@@ -23,7 +23,10 @@ This repository showcases my Java development journey, demonstrating hands-on pr
 </details>
 
 ### 2. Data Structures
-- [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
+<details>
+  <summary><span style="color: #6f42c1; font-weight: bold; text-decoration: underline;">▼ Toggle Labs</span></summary>
+  - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
+</details>
 
 ### 3. Methods & Functions
 <details>

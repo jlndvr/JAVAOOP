@@ -27,11 +27,8 @@ This repository showcases my Java development and learning, demonstrating my han
 - [Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)
 ### Lab 18
 - [Static](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
-### Lab 19
+### Labs 19-22
 - [Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
-### Lab 20
 - [Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)
-### Lab 21
-- [](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)
-### Lab 22
-- []()
+- [Polymorphism](https://github.com/UTRGV-CSCI-3326/lab-21-jlndvr)
+- [Abstraction](https://github.com/UTRGV-CSCI-3326/lab-22-jlndvr)

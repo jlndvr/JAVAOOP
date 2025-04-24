@@ -4,7 +4,7 @@
 This repository showcases my Java development and learning, demonstrating my hands-on programming and problem-solving skills.
 
 <details>
-<summary>Fundamentals of Java(^)</summary>
+<summary>Fundamentals of Java(press)</summary>
 
 - [Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
 - [Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)
@@ -22,8 +22,9 @@ This repository showcases my Java development and learning, demonstrating my han
 ### 2D Arrays
 - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 
+###
 <details>
-<summary>Labs 13-15 (Click to expand)</summary>
+<summary>(press)</summary>
 
 - [Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
 - [Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
@@ -34,8 +35,10 @@ This repository showcases my Java development and learning, demonstrating my han
 - [Lab 17: Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)
 - [Lab 18: Static](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
 
+
+### Pillars of Java
 <details>
-<summary>Pillars of Java</summary>
+<summary>(press)</summary>
 - [Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
 - [Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)
 - [Polymorphism](https://github.com/UTRGV-CSCI-3326/lab-21-jlndvr)

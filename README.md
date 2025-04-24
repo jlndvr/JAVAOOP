@@ -27,7 +27,7 @@ Coming soon...
 
 ### 2. Data Structures
 <details>
-  <summary><span style="color: #6f42c1; font-weight: bold; text-decoration: underline;">2D Arrays</span></summary>
+  <summary><span style="color: #6f42c1; font-weight: bold; text-decoration: underline;">▶️ Click to expand</span></summary>
 - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 </details>
 

@@ -6,7 +6,6 @@ This repository showcases my Java development and learning, demonstrating my han
 ### Fundamentals of Java
 <details>
 <summary>press me</summary>
-
 - [Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
 - [Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)
 - [Arithmetic](https://github.com/UTRGV-CSCI-3326/lab-03-jlndvr)
@@ -26,18 +25,17 @@ This repository showcases my Java development and learning, demonstrating my han
 ### Methods
 <details>
 <summary>(press me)</summary>
-
 - [Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
 - [Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
 - [Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)
 </details>
 
+### Classes 
 - [Lab 16: Classes & Objects](https://github.com/UTRGV-CSCI-3326/lab-16-jlndvr)
 - [Lab 17: Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)
 - [Lab 18: Static](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
 
-
-### Pillars of Java
+### Pillars of Java 
 <details>
 <summary>(press me)</summary>
 - [Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)

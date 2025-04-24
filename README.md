@@ -4,7 +4,7 @@
 This repository showcases my Java development and learning, demonstrating my hands-on programming and problem-solving skills.
 
 <details>
-<summary>Labs 1-11 (Click to expand)</summary>
+<summary>Fundamentals of Java(^)</summary>
 
 - [Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
 - [Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)
@@ -35,7 +35,7 @@ This repository showcases my Java development and learning, demonstrating my han
 - [Lab 18: Static](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
 
 <details>
-<summary>Labs 19-22 (Click to expand)</summary>
+<summary>Object Oriented Programming</summary>
 
 - [Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
 - [Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)

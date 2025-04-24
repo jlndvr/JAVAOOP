@@ -36,7 +36,7 @@ This repository showcases my Java development journey, demonstrating hands-on pr
 
 ### 4. Object-Oriented Basics
 <details>
-  <summary>▶️ Click to expand (3 labs)</summary>
+  <summary>▶️ Click to expand</summary>
   
   - [Lab 16: Classes & Objects](https://github.com/UTRGV-CSCI-3326/lab-16-jlndvr)
   - [Lab 17: Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)

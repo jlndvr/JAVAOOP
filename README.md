@@ -5,7 +5,7 @@ This repository showcases my Java development and learning, demonstrating my han
 
 ### Fundamentals of Java
 <details>
-<summary>Fundamentals of Java(press)</summary>
+<summary>im a button</summary>
 
 - [Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
 - [Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)

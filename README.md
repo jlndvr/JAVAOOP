@@ -1,7 +1,7 @@
 # Java Object-Oriented Programming (OOP) <img align="left" alt="Java Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 
 ## General Information
-This repository showcases my Java development journey, demonstrating hands-on programming and problem-solving skills through a series of structured labs.
+This repository showcases my Java development, demonstrating hands-on programming and problem-solving skills through a series of structured labs.
 
 ## Lab Categories
 

@@ -21,9 +21,9 @@ This repository showcases my Java development and learning, demonstrating my han
 </details>
 
 ### 2D Arrays
-- [Lab 12](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
+- [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 
-###
+### Methods
 <details>
 <summary>(press)</summary>
 

@@ -35,8 +35,7 @@ This repository showcases my Java development and learning, demonstrating my han
 - [Lab 18: Static](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
 
 <details>
-<summary>Object Oriented Programming</summary>
-
+<summary>Pillars of Java</summary>
 - [Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
 - [Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)
 - [Polymorphism](https://github.com/UTRGV-CSCI-3326/lab-21-jlndvr)

@@ -3,9 +3,12 @@
 ## General Information
 This repository showcases Java development, demonstrating hands-on programming and problem-solving skills through a series of structured labs.
 
+### Group Project
+Coming soon... 
+
 ## Lab Categories
 
-### 1. Java Fundamentals
+### 1. Java Fundamentals 
 <details>
   <summary>▶️ Click to expand</summary>
   

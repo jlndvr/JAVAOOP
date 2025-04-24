@@ -5,7 +5,7 @@ This repository showcases my Java development and learning, demonstrating my han
 
 ### Fundamentals of Java
 <details>
-<summary>im a button</summary>
+<summary>I am a button</summary>
 
 - [Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
 - [Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)
@@ -20,8 +20,8 @@ This repository showcases my Java development and learning, demonstrating my han
 - [Arrays](https://github.com/UTRGV-CSCI-3326/lab-11-jlndvr)
 </details>
 
-### Lab 12
-- [2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
+### 2D Arrays
+- [](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 
 ###
 <details>

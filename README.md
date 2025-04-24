@@ -7,7 +7,7 @@ This repository showcases my Java development journey, demonstrating hands-on pr
 
 ### 1. Java Fundamentals
 <details>
-  <summary>▶️ Click to expand (11 labs)</summary>
+  <summary>▶️ Click to expand</summary>
   
   - [Lab 01: Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
   - [Lab 02: Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)
@@ -27,7 +27,7 @@ This repository showcases my Java development journey, demonstrating hands-on pr
 
 ### 3. Methods & Functions
 <details>
-  <summary>▶️ Click to expand (3 labs)</summary>
+  <summary>▶️ Click to expand</summary>
   
   - [Lab 13: Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
   - [Lab 14: Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
@@ -45,7 +45,7 @@ This repository showcases my Java development journey, demonstrating hands-on pr
 
 ### 5. OOP Pillars
 <details>
-  <summary>▶️ Click to expand (4 labs)</summary>
+  <summary>▶️ Click to expand</summary>
   
   - [Lab 19: Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
   - [Lab 20: Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)

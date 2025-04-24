@@ -3,6 +3,7 @@
 ## General info
 This repository showcases my Java development and learning, demonstrating my hands-on programming and problem-solving skills.
 
+### Fundamentals of Java
 <details>
 <summary>Fundamentals of Java(press)</summary>
 

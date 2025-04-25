@@ -1,14 +1,14 @@
 # Java Object-Oriented Programming (OOP) <img align="left" alt="Java Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 
 ###### General Information
-🪑 This repository showcases Java development through a series of hands learning
+🪑 This repository showcases Java development through structured learning
 
-#### Group Project
+#### 🚀 Group Project
 🚧 Coming soon... 
 
-## Lab Categories
+## Lab Categories 
 
-#### 1. Java Fundamentals 
+#### 🔨 1. Java Fundamentals 
 <details>
   <summary>▶️ Click to expand</summary>
   
@@ -25,14 +25,14 @@
   - [Lab 11: Arrays](https://github.com/UTRGV-CSCI-3326/lab-11-jlndvr)
 </details>
 
-#### 2. Data Structures
+#### 🧮 2. Data Structures
 <details>
   <summary><span style="color: #6f42c1; font-weight: bold;">▶️ Click to expand</span></summary>
   
   - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 </details>
 
-#### 3. Methods & Functions
+#### 🗓️ 3. Methods & Functions
 <details>
   <summary>▶️ Click to expand</summary>
   
@@ -41,7 +41,7 @@
   - [Lab 15: Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)
 </details>
 
-#### 4. Object-Oriented Basics
+#### 🏗️ 4. Object-Oriented Basics
 <details>
   <summary>▶️ Click to expand</summary>
   
@@ -50,7 +50,7 @@
   - [Lab 18: Static Members](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
 </details>
 
-#### 5. OOP Pillars
+#### 🏛️ 5. OOP Pillars
 <details>
   <summary>▶️ Click to expand</summary>
   

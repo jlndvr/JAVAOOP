@@ -9,7 +9,7 @@
 
 #### 🔨 1. Java Fundamentals (Labs 1-11)
 <details>
-  <summary>▶Click to expand</summary>
+  <summary>Click to expand</summary>
   
   - [Lab 01: Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
   - [Lab 02: Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)

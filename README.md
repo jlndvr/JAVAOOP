@@ -1,12 +1,12 @@
-# Java Object-Oriented Programming (OOP) <img align="left" alt="Java Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
+## Java Object-Oriented Programming (OOP) <img align="left" alt="Java Logo" width="22px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 
 ###### General Information
-🪑 This repository showcases Java development through structured learning
+🪑 This repository showcases Java development through structured teaching
 
 #### 🚀 Group Project
 🚧 Coming soon... 
 
-## Lab Categories 
+## 📖 Learning
 
 #### 🔨 1. Java Fundamentals 
 <details>

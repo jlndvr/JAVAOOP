@@ -7,7 +7,7 @@
 
 ## 📖 Learning
 
-#### 🔨 1. Java Fundamentals 
+#### 🔨 1. Java Fundamentals (Labs 1-11)
 <details>
   <summary>▶Click to expand</summary>
   
@@ -24,14 +24,14 @@
   - [Lab 11: Arrays](https://github.com/UTRGV-CSCI-3326/lab-11-jlndvr)
 </details>
 
-#### 🧮 2. Data Structures
+#### 🧮 2. Data Structures (Lab 12)
 <details>
   <summary><span style="color: #6f42c1; font-weight: bold;">▶Click to expand</span></summary>
   
   - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 </details>
 
-#### 🗓️ 3. Methods & Functions
+#### 🗓️ 3. Methods & Functions (Labs 13-15)
 <details>
   <summary>▶Click to expand</summary>
   
@@ -40,7 +40,7 @@
   - [Lab 15: Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)
 </details>
 
-#### 🏗️ 4. Object-Oriented Basics
+#### 🏗️ 4. Object-Oriented Basics (Labs 16-18)
 <details>
   <summary>▶Click to expand</summary>
   
@@ -49,7 +49,7 @@
   - [Lab 18: Static Members](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
 </details>
 
-#### 🏛️ 5. OOP Pillars
+#### 🏛️ 5. OOP Pillars (Labs 19-22)
 <details>
   <summary>▶Click to expand</summary>
   

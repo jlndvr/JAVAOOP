@@ -51,7 +51,7 @@
 
 #### 🏛️ 5. OOP Pillars (Labs 19-22)
 <details>
-  <summary>▶Click to expand</summary>
+  <summary>Click to expand</summary>
   
   - [Lab 19: Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
   - [Lab 20: Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)

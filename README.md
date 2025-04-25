@@ -7,7 +7,26 @@
 
 ## 📖 Learning
 
-#### 🔨 1. Java Fundamentals (Labs 1-11)
+#### 🏗️ 1. Object-Oriented Basics (Labs 16-18)
+<details>
+  <summary>Click to expand</summary>
+  
+  - [Lab 16: Classes & Objects](https://github.com/UTRGV-CSCI-3326/lab-16-jlndvr)
+  - [Lab 17: Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)
+  - [Lab 18: Static Members](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
+</details>
+
+#### 🏛️ 2. OOP Pillars (Labs 19-22)
+<details>
+  <summary>Click to expand</summary>
+  
+  - [Lab 19: Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
+  - [Lab 20: Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)
+  - [Lab 21: Polymorphism](https://github.com/UTRGV-CSCI-3326/lab-21-jlndvr)
+  - [Lab 22: Abstraction](https://github.com/UTRGV-CSCI-3326/lab-22-jlndvr)
+</details>
+
+#### 🔨 3. Java Fundamentals (Labs 1-11)
 <details>
   <summary>Click to expand</summary>
   
@@ -24,37 +43,18 @@
   - [Lab 11: Arrays](https://github.com/UTRGV-CSCI-3326/lab-11-jlndvr)
 </details>
 
-#### 🧮 2. Data Structures (Lab 12)
+#### 🧮 4. Data Structures (Lab 12)
 <details>
   <summary><span style="color: #6f42c1; font-weight: bold;">Click to expand</span></summary>
   
   - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 </details>
 
-#### 🗓️ 3. Methods & Functions (Labs 13-15)
+#### 🗓️ 5. Methods & Functions (Labs 13-15)
 <details>
   <summary>Click to expand</summary>
   
   - [Lab 13: Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
   - [Lab 14: Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
   - [Lab 15: Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)
-</details>
-
-#### 🏗️ 4. Object-Oriented Basics (Labs 16-18)
-<details>
-  <summary>Click to expand</summary>
-  
-  - [Lab 16: Classes & Objects](https://github.com/UTRGV-CSCI-3326/lab-16-jlndvr)
-  - [Lab 17: Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)
-  - [Lab 18: Static Members](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
-</details>
-
-#### 🏛️ 5. OOP Pillars (Labs 19-22)
-<details>
-  <summary>Click to expand</summary>
-  
-  - [Lab 19: Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
-  - [Lab 20: Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)
-  - [Lab 21: Polymorphism](https://github.com/UTRGV-CSCI-3326/lab-21-jlndvr)
-  - [Lab 22: Abstraction](https://github.com/UTRGV-CSCI-3326/lab-22-jlndvr)
 </details>

@@ -10,7 +10,7 @@
 
 #### 🔨 1. Java Fundamentals 
 <details>
-  <summary>▶️ Click to expand</summary>
+  <summary>▶Click to expand</summary>
   
   - [Lab 01: Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
   - [Lab 02: Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)
@@ -27,14 +27,14 @@
 
 #### 🧮 2. Data Structures
 <details>
-  <summary><span style="color: #6f42c1; font-weight: bold;">▶️ Click to expand</span></summary>
+  <summary><span style="color: #6f42c1; font-weight: bold;">▶Click to expand</span></summary>
   
   - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 </details>
 
 #### 🗓️ 3. Methods & Functions
 <details>
-  <summary>▶️ Click to expand</summary>
+  <summary>▶Click to expand</summary>
   
   - [Lab 13: Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
   - [Lab 14: Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
@@ -43,7 +43,7 @@
 
 #### 🏗️ 4. Object-Oriented Basics
 <details>
-  <summary>▶️ Click to expand</summary>
+  <summary>▶Click to expand</summary>
   
   - [Lab 16: Classes & Objects](https://github.com/UTRGV-CSCI-3326/lab-16-jlndvr)
   - [Lab 17: Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)
@@ -52,7 +52,7 @@
 
 #### 🏛️ 5. OOP Pillars
 <details>
-  <summary>▶️ Click to expand</summary>
+  <summary>▶Click to expand</summary>
   
   - [Lab 19: Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
   - [Lab 20: Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)

@@ -8,7 +8,7 @@
 
 ## Lab Categories
 
-### 1. Java Fundamentals 
+#### 1. Java Fundamentals 
 <details>
   <summary>▶️ Click to expand</summary>
   

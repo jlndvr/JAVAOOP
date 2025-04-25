@@ -26,14 +26,14 @@
 
 #### 🧮 2. Data Structures (Lab 12)
 <details>
-  <summary><span style="color: #6f42c1; font-weight: bold;">▶Click to expand</span></summary>
+  <summary><span style="color: #6f42c1; font-weight: bold;">Click to expand</span></summary>
   
   - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 </details>
 
 #### 🗓️ 3. Methods & Functions (Labs 13-15)
 <details>
-  <summary>▶Click to expand</summary>
+  <summary>Click to expand</summary>
   
   - [Lab 13: Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
   - [Lab 14: Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
@@ -42,7 +42,7 @@
 
 #### 🏗️ 4. Object-Oriented Basics (Labs 16-18)
 <details>
-  <summary>▶Click to expand</summary>
+  <summary>Click to expand</summary>
   
   - [Lab 16: Classes & Objects](https://github.com/UTRGV-CSCI-3326/lab-16-jlndvr)
   - [Lab 17: Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)

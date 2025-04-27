@@ -46,7 +46,7 @@
 </details>
 
 <details>
-  <summary><span style="color: #6f42c1; font-weight: bold;">🧮 Data Structures & Algorithms (Labs 12 & 15)</span></summary>
+  <summary><span style="color: #6f42c1; font-weight: bold;">🧮 Data Structures & Algorithms</span></summary>
   
 [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
 [Lab 15: Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)

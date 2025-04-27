@@ -8,7 +8,7 @@
 ## 📖 Learning
 
 <details>
-  <summary>🏗️ Object-Oriented Basics (Labs 13-18)</summary>
+  <summary>🏗️ Object-Oriented Basics</summary>
 
 [Lab 13: Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
 [Lab 14: Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
@@ -19,7 +19,7 @@
 </details>
 
 <details>
-  <summary>🏛️ OOP Pillars (Labs 19-22)</summary>
+  <summary>🏛️ OOP Pillars</summary>
   
 [Lab 19: Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
 [Lab 20: Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary>🔨 Java Fundamentals (Labs 1-11)</summary>
+  <summary>🔨 Java Fundamentals</summary>
   
 [Lab 01: Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
 [Lab 02: Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)

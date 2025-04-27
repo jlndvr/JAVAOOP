@@ -8,7 +8,7 @@
 ## 📖 Learning
 
 <details>
-  <summary>🏗️ Object-Oriented Basics (Labs 16-18)</summary>
+  <summary>🏗️ Object-Oriented Basics (Labs 13-18)</summary>
 
   - [Lab 13: Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
   - [Lab 14: Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
@@ -46,7 +46,7 @@
 </details>
 
 <details>
-  <summary><span style="color: #6f42c1; font-weight: bold;">🧮 Data Structures & Algorithms (Lab 12)</span></summary>
+  <summary><span style="color: #6f42c1; font-weight: bold;">🧮 Data Structures & Algorithms (Labs 12 & 15)</span></summary>
   
   - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
   - [Lab 15: Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)

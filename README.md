@@ -7,28 +7,29 @@
 
 ## 📖 Learning
 
-#### 🏗️ 1. Object-Oriented Basics (Labs 16-18)
 <details>
-  <summary>Click to expand</summary>
-  
+  <summary>🏗️ Object-Oriented Basics (Labs 16-18)</summary>
+
+  - [Lab 13: Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
+  - [Lab 14: Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
   - [Lab 16: Classes & Objects](https://github.com/UTRGV-CSCI-3326/lab-16-jlndvr)
   - [Lab 17: Packages](https://github.com/UTRGV-CSCI-3326/lab-17-jlndvr)
   - [Lab 18: Static Members](https://github.com/UTRGV-CSCI-3326/lab-18-jlndvr)
+    
 </details>
 
-#### 🏛️ 2. OOP Pillars (Labs 19-22)
 <details>
-  <summary>Click to expand</summary>
+  <summary>🏛️ OOP Pillars (Labs 19-22)</summary>
   
   - [Lab 19: Encapsulation](https://github.com/UTRGV-CSCI-3326/lab-19-jlndvr)
   - [Lab 20: Inheritance](https://github.com/UTRGV-CSCI-3326/lab-20-jlndvr)
   - [Lab 21: Polymorphism](https://github.com/UTRGV-CSCI-3326/lab-21-jlndvr)
   - [Lab 22: Abstraction](https://github.com/UTRGV-CSCI-3326/lab-22-jlndvr)
+    
 </details>
 
-#### 🔨 3. Java Fundamentals (Labs 1-11)
 <details>
-  <summary>Click to expand</summary>
+  <summary>🔨 Java Fundamentals (Labs 1-11)</summary>
   
   - [Lab 01: Output](https://github.com/UTRGV-CSCI-3326/lab-01-jlndvr)
   - [Lab 02: Variables](https://github.com/UTRGV-CSCI-3326/lab-02-jlndvr)
@@ -41,20 +42,13 @@
   - [Lab 09: While Loops](https://github.com/UTRGV-CSCI-3326/lab-09-jlndvr)
   - [Lab 10: For Loops](https://github.com/UTRGV-CSCI-3326/lab-10-jlndvr)
   - [Lab 11: Arrays](https://github.com/UTRGV-CSCI-3326/lab-11-jlndvr)
+    
 </details>
 
-#### 🧮 4. Data Structures (Lab 12)
 <details>
-  <summary><span style="color: #6f42c1; font-weight: bold;">Click to expand</span></summary>
+  <summary><span style="color: #6f42c1; font-weight: bold;">🧮 Data Structures & Algorithms (Lab 12)</span></summary>
   
   - [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)
-</details>
-
-#### 🗓️ 5. Methods & Functions (Labs 13-15)
-<details>
-  <summary>Click to expand</summary>
-  
-  - [Lab 13: Functions](https://github.com/UTRGV-CSCI-3326/lab-13-jlndvr)
-  - [Lab 14: Pass-by-Reference](https://github.com/UTRGV-CSCI-3326/lab-14-jlndvr)
   - [Lab 15: Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)
+    
 </details>

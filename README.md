@@ -2,8 +2,12 @@
 
 ###### General Information: This repository showcases Java development experience through structured learning.
 
-#### Projects
-🚧 Coming soon...
+<details>
+  <summary><b>Projects</b></summary>
+  
+  🚧 Coming soon...
+  
+</details>
 
 ## 📖 Learning
 

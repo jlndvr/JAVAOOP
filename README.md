@@ -3,7 +3,7 @@
 ###### General Information: This repository showcases Java development experience through structured learning.
 
 <details>
-  <summary><b>Projects</b></summary>
+  <summary><b>🅿️rojects</b></summary>
   
   🚧 Coming soon...
   

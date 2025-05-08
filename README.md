@@ -4,9 +4,10 @@
 
 <details>
   <summary><b>🅿️rojects</b></summary>
-  
-  🚧 Coming soon...
-  
+
+[Music Application Management System (MAMS)]()
+[Language Families](https://github.com/jlndvr/languageFamilies)
+
 </details>
 
 ## 📖 Learning

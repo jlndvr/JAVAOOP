@@ -3,11 +3,10 @@
 ###### General Information: This repository showcases Java development experience through structured learning.
 
 <details>
-  <summary><b>🅿️rojects</b></summary>
-  
-[Language Families](https://github.com/jlndvr/languageFamilies)
-[Music Application Management System](https://github.com/jlndvr/MAMS)  
+  <summary><b>🅿️rojects</b></summary>  
 
+[Language Families](https://github.com/jlndvr/languageFamilies)  
+[Music Application Management System](https://github.com/jlndvr/MAMS)  
 
 </details>
 

@@ -5,8 +5,8 @@
 <details>
   <summary><b>🅿️rojects</b></summary>  
 
-[Language Families](https://github.com/jlndvr/languageFamilies)  
-[Music Application Management System](https://github.com/jlndvr/MAMS)  
+[Language Families (Java)](https://github.com/jlndvr/languageFamilies)  
+[Music Application Management System (Java)](https://github.com/jlndvr/MAMS)  
 
 </details>
 

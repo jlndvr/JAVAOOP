@@ -46,13 +46,13 @@
 [Lab 08: Decision Making (Ranges)](https://github.com/UTRGV-CSCI-3326/lab-08-jlndvr)  
 [Lab 09: While Loops](https://github.com/UTRGV-CSCI-3326/lab-09-jlndvr)  
 [Lab 10: For Loops](https://github.com/UTRGV-CSCI-3326/lab-10-jlndvr)  
-[Lab 11: Arrays](https://github.com/UTRGV-CSCI-3326/lab-11-jlndvr)
 
 </details>
 
 <details>
   <summary><span style="color: #6f42c1; font-weight: bold;">🧮 Data Structures & Algorithms</span></summary>
 
+[Lab 11: Arrays](https://github.com/UTRGV-CSCI-3326/lab-11-jlndvr)
 [Lab 12: 2D Arrays](https://github.com/UTRGV-CSCI-3326/lab-12-jlndvr)  
 [Lab 15: Recursion](https://github.com/UTRGV-CSCI-3326/lab-15-jlndvr)
 
